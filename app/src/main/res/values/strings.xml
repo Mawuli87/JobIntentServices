@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ISpaceJobIntentService</string>
+    <string name="run_code">Run code</string>
+    <string name="clear">Clear</string>
+    <string name="lorem_ipsum">Lorem ipsum</string>
+    <string name="running_code">Running code</string>
+</resources>
